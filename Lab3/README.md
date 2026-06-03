@@ -110,6 +110,9 @@ ghdl -r ENCODER_TB --vcd=encoder.vcd
 # 4. Open waveform in GTKWave
 gtkwave encoder.vcd
 ```
+<img width="1920" height="1031" alt="encoder" src="https://github.com/user-attachments/assets/e9280e91-9297-495c-8ebb-ca8fe105cd96" />
+
+
 
 ### Decoder Simulation
 
@@ -126,6 +129,7 @@ ghdl -r DECODER_TB --vcd=decoder.vcd
 # 4. Open waveform in GTKWave
 gtkwave decoder.vcd
 ```
+<img width="1920" height="1023" alt="decoder" src="https://github.com/user-attachments/assets/1a5d47ab-99aa-41dc-b880-2c5d294e8cb6" />
 
 ---
 
